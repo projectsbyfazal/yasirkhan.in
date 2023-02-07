@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/yasirkhan.in/static/css/main.40b0f567.css",
+    "main.js": "/yasirkhan.in/static/js/main.c46def6d.js",
+    "index.html": "/yasirkhan.in/index.html",
+    "main.40b0f567.css.map": "/yasirkhan.in/static/css/main.40b0f567.css.map",
+    "main.c46def6d.js.map": "/yasirkhan.in/static/js/main.c46def6d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40b0f567.css",
+    "static/js/main.c46def6d.js"
+  ]
+}
