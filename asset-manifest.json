@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/yasirkhan.in/static/css/main.03cc0610.css",
-    "main.js": "/yasirkhan.in/static/js/main.9fe9b4f1.js",
+    "main.css": "/yasirkhan.in/static/css/main.56e18394.css",
+    "main.js": "/yasirkhan.in/static/js/main.50d382fb.js",
     "index.html": "/yasirkhan.in/index.html",
-    "main.03cc0610.css.map": "/yasirkhan.in/static/css/main.03cc0610.css.map",
-    "main.9fe9b4f1.js.map": "/yasirkhan.in/static/js/main.9fe9b4f1.js.map"
+    "main.56e18394.css.map": "/yasirkhan.in/static/css/main.56e18394.css.map",
+    "main.50d382fb.js.map": "/yasirkhan.in/static/js/main.50d382fb.js.map"
   },
   "entrypoints": [
-    "static/css/main.03cc0610.css",
-    "static/js/main.9fe9b4f1.js"
+    "static/css/main.56e18394.css",
+    "static/js/main.50d382fb.js"
   ]
 }
