@@ -1,13 +1,28 @@
 {
   "files": {
-    "main.css": "/yasirkhan.in/static/css/main.56e18394.css",
-    "main.js": "/yasirkhan.in/static/js/main.50d382fb.js",
+    "main.css": "/yasirkhan.in/static/css/main.c8b11a6f.css",
+    "main.js": "/yasirkhan.in/static/js/main.f0157cd6.js",
+    "static/media/netflix.png": "/yasirkhan.in/static/media/netflix.d13154e20f520f603ac3.png",
+    "static/media/university.png": "/yasirkhan.in/static/media/university.b720fed37c98f8e1a771.png",
+    "static/media/ecommerce.png": "/yasirkhan.in/static/media/ecommerce.706b767bf1337f3e5afb.png",
+    "static/media/youtube.png": "/yasirkhan.in/static/media/youtube.73d8921d10c73468a037.png",
+    "static/media/translation.png": "/yasirkhan.in/static/media/translation.d4fe1531abe21d8d66e3.png",
+    "static/media/hospital.png": "/yasirkhan.in/static/media/hospital.1b4011a7b217baf2ee6d.png",
+    "static/media/yasir2.png": "/yasirkhan.in/static/media/yasir2.ef614ae9c66abf250d33.png",
+    "static/media/dictionary.png": "/yasirkhan.in/static/media/dictionary.5a4ebb098330ad92350b.png",
+    "static/media/codeEditor.png": "/yasirkhan.in/static/media/codeEditor.e8ec6a189acf53d1df6d.png",
+    "static/media/todoList.png": "/yasirkhan.in/static/media/todoList.d3eceb745e68c7616fee.png",
+    "static/media/weather.png": "/yasirkhan.in/static/media/weather.2daa103f793901d38daa.png",
+    "static/media/qrcode.png": "/yasirkhan.in/static/media/qrcode.24c545a90f4c12fac63b.png",
+    "static/media/notesapp.png": "/yasirkhan.in/static/media/notesapp.70500a49673a363be042.png",
+    "static/media/yasir1.jpg": "/yasirkhan.in/static/media/yasir1.0ff15a40ce07ecbc689d.jpg",
+    "static/media/react.png": "/yasirkhan.in/static/media/react.3b492bade043821ded42.png",
     "index.html": "/yasirkhan.in/index.html",
-    "main.56e18394.css.map": "/yasirkhan.in/static/css/main.56e18394.css.map",
-    "main.50d382fb.js.map": "/yasirkhan.in/static/js/main.50d382fb.js.map"
+    "main.c8b11a6f.css.map": "/yasirkhan.in/static/css/main.c8b11a6f.css.map",
+    "main.f0157cd6.js.map": "/yasirkhan.in/static/js/main.f0157cd6.js.map"
   },
   "entrypoints": [
-    "static/css/main.56e18394.css",
-    "static/js/main.50d382fb.js"
+    "static/css/main.c8b11a6f.css",
+    "static/js/main.f0157cd6.js"
   ]
 }
