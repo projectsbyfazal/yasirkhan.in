@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/yasirkhan.in/static/css/main.c8b11a6f.css",
-    "main.js": "/yasirkhan.in/static/js/main.f0157cd6.js",
+    "main.css": "/yasirkhan.in/static/css/main.4021d0d5.css",
+    "main.js": "/yasirkhan.in/static/js/main.99d1a417.js",
     "static/media/netflix.png": "/yasirkhan.in/static/media/netflix.d13154e20f520f603ac3.png",
     "static/media/university.png": "/yasirkhan.in/static/media/university.b720fed37c98f8e1a771.png",
     "static/media/ecommerce.png": "/yasirkhan.in/static/media/ecommerce.706b767bf1337f3e5afb.png",
@@ -18,11 +18,11 @@
     "static/media/yasir1.jpg": "/yasirkhan.in/static/media/yasir1.0ff15a40ce07ecbc689d.jpg",
     "static/media/react.png": "/yasirkhan.in/static/media/react.3b492bade043821ded42.png",
     "index.html": "/yasirkhan.in/index.html",
-    "main.c8b11a6f.css.map": "/yasirkhan.in/static/css/main.c8b11a6f.css.map",
-    "main.f0157cd6.js.map": "/yasirkhan.in/static/js/main.f0157cd6.js.map"
+    "main.4021d0d5.css.map": "/yasirkhan.in/static/css/main.4021d0d5.css.map",
+    "main.99d1a417.js.map": "/yasirkhan.in/static/js/main.99d1a417.js.map"
   },
   "entrypoints": [
-    "static/css/main.c8b11a6f.css",
-    "static/js/main.f0157cd6.js"
+    "static/css/main.4021d0d5.css",
+    "static/js/main.99d1a417.js"
   ]
 }
